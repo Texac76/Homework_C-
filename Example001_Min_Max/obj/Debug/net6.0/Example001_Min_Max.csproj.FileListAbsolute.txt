@@ -1,0 +1,15 @@
+C:\Users\Евгений\Desktop\GB\Homework_C#\Example001_Min_Max\bin\Debug\net6.0\Example001_Min_Max.exe
+C:\Users\Евгений\Desktop\GB\Homework_C#\Example001_Min_Max\bin\Debug\net6.0\Example001_Min_Max.deps.json
+C:\Users\Евгений\Desktop\GB\Homework_C#\Example001_Min_Max\bin\Debug\net6.0\Example001_Min_Max.runtimeconfig.json
+C:\Users\Евгений\Desktop\GB\Homework_C#\Example001_Min_Max\bin\Debug\net6.0\Example001_Min_Max.dll
+C:\Users\Евгений\Desktop\GB\Homework_C#\Example001_Min_Max\bin\Debug\net6.0\Example001_Min_Max.pdb
+C:\Users\Евгений\Desktop\GB\Homework_C#\Example001_Min_Max\obj\Debug\net6.0\Example001_Min_Max.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\GB\Homework_C#\Example001_Min_Max\obj\Debug\net6.0\Example001_Min_Max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\GB\Homework_C#\Example001_Min_Max\obj\Debug\net6.0\Example001_Min_Max.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\GB\Homework_C#\Example001_Min_Max\obj\Debug\net6.0\Example001_Min_Max.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\GB\Homework_C#\Example001_Min_Max\obj\Debug\net6.0\Example001_Min_Max.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\GB\Homework_C#\Example001_Min_Max\obj\Debug\net6.0\Example001_Min_Max.dll
+C:\Users\Евгений\Desktop\GB\Homework_C#\Example001_Min_Max\obj\Debug\net6.0\refint\Example001_Min_Max.dll
+C:\Users\Евгений\Desktop\GB\Homework_C#\Example001_Min_Max\obj\Debug\net6.0\Example001_Min_Max.pdb
+C:\Users\Евгений\Desktop\GB\Homework_C#\Example001_Min_Max\obj\Debug\net6.0\Example001_Min_Max.genruntimeconfig.cache
+C:\Users\Евгений\Desktop\GB\Homework_C#\Example001_Min_Max\obj\Debug\net6.0\ref\Example001_Min_Max.dll
